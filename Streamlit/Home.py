@@ -60,5 +60,5 @@ with col2:
     )
     st.link_button(
         "Check out the data preprocessing notebook",
-        "https://nbviewer.org/github/Krouvaille/DVF_2025_H1_Streamlit_App/blob/main/DVF_2025_H1_Data_Preprocessing.ipynb",  # 要打开的链接
+        "https://nbviewer.org/github/Krouvaille/DVF_Streamlit_App/blob/de2aafbdeb05367c1fb25c8de1ed7fcdfbc5e7ce/DVF_2025_H1_Data_Preprocessing.ipynb",
     )
